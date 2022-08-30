@@ -1,2 +1,2 @@
 # rating_games_api
-rating games api
+API for get rating of games
